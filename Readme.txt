@@ -1,3 +1,5 @@
+Instructions for installing the project
+
 1. Install if not installed : WAMP (wamp or wamp64)
 
 2. Open https://github.com/bobybozhilov/EventManager
